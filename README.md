@@ -19,8 +19,8 @@ Haciendo Pruebas
 
 
 
-![Me-edito] (https://res.cloudinary.com/yudithkleon/image/upload/v1628216293/meditaci%C3%B3n-y-aprendizaje-1080x675_jn9ofe.jpg)
+![Me-edito](https://res.cloudinary.com/yudithkleon/image/upload/v1628216293/meditaci%C3%B3n-y-aprendizaje-1080x675_jn9ofe.jpg)
 
 
-[Me-edito] (https://online-tesis.com/como-influye-la-meditacion-en-el-aprendizaje/)
+[Me-edito](https://online-tesis.com/como-influye-la-meditacion-en-el-aprendizaje/)
 *Namaste*
