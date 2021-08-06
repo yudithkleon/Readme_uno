@@ -16,4 +16,4 @@ Haciendo Pruebas
 ~~~
 
 ***Retomando la Meditacion***
-* Namaste*
+*Namaste*
