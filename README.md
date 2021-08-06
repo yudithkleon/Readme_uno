@@ -16,4 +16,6 @@ Haciendo Pruebas
 ~~~
 
 ***Retomando la Meditacion***
+
+![Me-edito] (https://online-tesis.com/como-influye-la-meditacion-en-el-aprendizaje/)
 *Namaste*
