@@ -3,7 +3,9 @@
 ### Mi Hola Mundo Digital...
 
 -Instalacion de Herramientas
+
 -Visualizacion de videos
+
 -Iniciando con:
 1. HTML
 2. Css
